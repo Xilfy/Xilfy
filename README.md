@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=hris.sh+%7C+hris)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F0F700&width=435&lines=Silfy)](https://git.io/typing-svg)
 
 ```csharp
-[tt](http://tiktok.com/silfy)
-[bio](https://silfy.dev/)
+tt : tiktok.com/silfy
+dc : silfyxd
 ```
 &zwnj; 
 &zwnj; 
