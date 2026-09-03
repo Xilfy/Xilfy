@@ -3,6 +3,7 @@
 ```csharp
 tt : @silfyxd
 dc : @silfies
+C++, UE5, CSS, JavaScript
 ```
 &zwnj; 
 &zwnj; 
