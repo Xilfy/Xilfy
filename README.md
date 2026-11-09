@@ -2,8 +2,8 @@
 
 ```csharp
 tt : @silfyxd
-dc : @silfies
-C++, UE5, CSS, JavaScript
+dc : @silfyxd
+C++, UE5, CSS, JS, Java, Unity and almost everything!
 ```
 &zwnj; 
 &zwnj; 
