@@ -2,8 +2,8 @@
 
 ```csharp
 tt : @silfyxd
-dc : @silfyxd
-C++, UE5, CSS, JS, Java, Unity and almost everything!
+dc : @silfyxd / dc server : https://discord.gg/j9bDKN66Qc
+owner of nightmc.lol
 ```
 &zwnj; 
 &zwnj; 
